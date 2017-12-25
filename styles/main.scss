@@ -1,0 +1,24 @@
+@import
+'utils/variables',
+'utils/function',
+'utils/mixins',
+
+'vendors/bootstrap/bootstrap-grid',
+
+'base/reset',
+'base/base',
+
+'components/tables',
+'../../0_mindminer/src/components/Button/Button',
+
+'../../0_mindminer/src/containers/Root/Root',
+
+'../../0_mindminer/src/components/Input/Input',
+'../../0_mindminer/src/components/Header/Header',
+'../../0_mindminer/src/components/TopMenu/TopMenu',
+'../../0_mindminer/src/components/LogInMenu/LoginMenu',
+'../../0_mindminer/src/components/Card/Card',
+
+// important
+'base/modificators'
+;

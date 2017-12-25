@@ -1,0 +1,35 @@
+@include MQ(xs) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include MQ(sm) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include MQ(md) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include MQ(lg) {
+  html {
+    font-size: 1vw;
+  }
+}
+
+body {
+  font-family: $font-primary;
+  color: $gray-700;
+  background-color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+

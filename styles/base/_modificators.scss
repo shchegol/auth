@@ -1,0 +1,23 @@
+.mt {
+  margin-top: 1rem;
+  &_2 {
+    margin-top: 2rem;
+  }
+}
+
+.mb {
+  margin-bottom: 1rem;
+  &_2 {
+    margin-bottom: 2rem;
+  }
+}
+
+.text {
+  &_center {
+    text-align: center;
+  }
+
+  &_right {
+    text-align: right;
+  }
+}
